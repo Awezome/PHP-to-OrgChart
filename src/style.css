@@ -1,0 +1,8 @@
+.orgchart table{ border-collapse:collapse; padding:0; margin:0; top:0; background:#FFFFE8; width:100% }
+.orgchart td{ vertical-align:top; text-align:center }
+.orgchart th{ height:20px; }
+.orgchart td .right{ border-right:1px solid #000; }
+.orgchart td .top{   border-top:1px solid #000;  }
+.orgchart .width-50{   width:50%  }
+.orgchart .charttext{border:1px solid #000; padding:2px; background:#FFFFCF; display:inline-block;font-size:12px;}
+.orgchart .charttext:hover{ background:#FFFF98; padding:2px 6px;   font-weight:700;    }

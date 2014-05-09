@@ -2,6 +2,7 @@ PHP-to-OrgChart
 ================
 
 A Organisation Chart , width Pure PHP and CSS Implement 
+blog is here http://www.awezome.net/1967/
 
 ## Contributing
 Tell me the bugs!! Give me more ideas !!
